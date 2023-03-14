@@ -1,0 +1,10 @@
+C:\Users\eray_\Desktop\projeler\Sinema Büfe\Sinema_Bufe\bin\Debug\Sinema_Bufe.exe.config
+C:\Users\eray_\Desktop\projeler\Sinema Büfe\Sinema_Bufe\bin\Debug\Sinema_Bufe.exe
+C:\Users\eray_\Desktop\projeler\Sinema Büfe\Sinema_Bufe\bin\Debug\Sinema_Bufe.pdb
+C:\Users\eray_\Desktop\projeler\Sinema Büfe\Sinema_Bufe\obj\Debug\Sinema_Bufe.csproj.AssemblyReference.cache
+C:\Users\eray_\Desktop\projeler\Sinema Büfe\Sinema_Bufe\obj\Debug\Sinema_Bufe.Form1.resources
+C:\Users\eray_\Desktop\projeler\Sinema Büfe\Sinema_Bufe\obj\Debug\Sinema_Bufe.Properties.Resources.resources
+C:\Users\eray_\Desktop\projeler\Sinema Büfe\Sinema_Bufe\obj\Debug\Sinema_Bufe.csproj.GenerateResource.cache
+C:\Users\eray_\Desktop\projeler\Sinema Büfe\Sinema_Bufe\obj\Debug\Sinema_Bufe.csproj.CoreCompileInputs.cache
+C:\Users\eray_\Desktop\projeler\Sinema Büfe\Sinema_Bufe\obj\Debug\Sinema_Bufe.exe
+C:\Users\eray_\Desktop\projeler\Sinema Büfe\Sinema_Bufe\obj\Debug\Sinema_Bufe.pdb
